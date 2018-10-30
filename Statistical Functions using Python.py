@@ -206,7 +206,7 @@ plt.ylabel('Probability')
 plt.show()
 
 
-# # Power of the hypothesis test
+# # 9. Power of the hypothesis test
 
 # In[ ]:
 
